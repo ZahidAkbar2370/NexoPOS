@@ -3364,16 +3364,16 @@
         },
         {
             "name": "picqer/php-barcode-generator",
-            "version": "v2.2.2",
+            "version": "v2.2.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/picqer/php-barcode-generator.git",
-                "reference": "877fcb0e9279ac40646361a7d7a7c6d0e1639836"
+                "reference": "b98f110cc5a79f723688fb17fd90b9325300d844"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/picqer/php-barcode-generator/zipball/877fcb0e9279ac40646361a7d7a7c6d0e1639836",
-                "reference": "877fcb0e9279ac40646361a7d7a7c6d0e1639836",
+                "url": "https://api.github.com/repos/picqer/php-barcode-generator/zipball/b98f110cc5a79f723688fb17fd90b9325300d844",
+                "reference": "b98f110cc5a79f723688fb17fd90b9325300d844",
                 "shasum": ""
             },
             "require": {
@@ -3438,7 +3438,7 @@
             ],
             "support": {
                 "issues": "https://github.com/picqer/php-barcode-generator/issues",
-                "source": "https://github.com/picqer/php-barcode-generator/tree/v2.2.2"
+                "source": "https://github.com/picqer/php-barcode-generator/tree/v2.2.4"
             },
             "funding": [
                 {
@@ -3446,7 +3446,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-05-06T07:19:24+00:00"
+            "time": "2022-07-01T08:27:26+00:00"
         },
         {
             "name": "psr/cache",
